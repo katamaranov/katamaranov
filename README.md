@@ -1,14 +1,16 @@
 <img style="float: left;" width="45" src="./icons/w98_user_card.ico">
-<center><span style="font-size:22px;">My name is not important. What is important is what I'm going to do... (programming)</span></center>
-<img style="float: right;" width="45" src="./icons/w98_user_card.ico">
-<img style="float: left;" width="46" src="./icons/w98_envelope_closed.ico">
-<img style="float: right;" width="46" src="./icons/w98_envelope_closed.ico">
-<center><span style="font-size:22px;">nzvei75kw@mozmail.com</span></center></br>
-<img style="float: left;" src="./icons/w98_internet_options.ico">
-<img style="float: right;" src="./icons/w98_internet_options.ico">
-<center><span style="font-size:22px;">3+ years of development experience. System administration in college and the like</span></center></br>
 
-<center style="font-size:20;">Languages</center></br>
+### My name is not important. What is important is what I'm going to do... (programming)
+
+<img style="float: left;" width="46" src="./icons/w98_envelope_closed.ico">
+
+### nzvei75kw@mozmail.com
+
+<img style="float: left;" src="./icons/w98_internet_options.ico">
+
+### 3+ years of development experience. System administration in college and the like
+
+#### Languages
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
@@ -16,7 +18,7 @@
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/c%20language-blue?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/go%20lang-blue?style=for-the-badge&logo=go&logoColor=white)
 
-<center style="font-size:20;">Frameworks</center></br>
+#### Frameworks
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=lime) ![Static Badge](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -24,13 +26,13 @@
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/nodejs-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<center style="font-size:20;">Containerization and clusters</center></br>
+#### Containerization and clusters
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/k3s-white?style=for-the-badge&logo=k3s&logoColor=yellow) ![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/k8s-white?style=for-the-badge&logo=kubernetes&logoColor=blue)
 
-<center style="font-size:20;">Databases and queues</center></br>
+#### Databases and queues
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
