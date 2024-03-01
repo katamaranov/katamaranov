@@ -1,6 +1,6 @@
 <img style="float: left;" width="45" src="./icons/w98_user_card.ico">
+<center><span style="font-size:22px;">My name is not important. What is important is what I'm going to do... (programming)</span></center>
 <img style="float: right;" width="45" src="./icons/w98_user_card.ico">
-<center><span style="font-size:22px;">My name is not important. What is important is what I'm going to do... (programming)</span></center></br>
 <img style="float: left;" width="46" src="./icons/w98_envelope_closed.ico">
 <img style="float: right;" width="46" src="./icons/w98_envelope_closed.ico">
 <center><span style="font-size:22px;">nzvei75kw@mozmail.com</span></center></br>
