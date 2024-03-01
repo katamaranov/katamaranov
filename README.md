@@ -1,12 +1,12 @@
-<img style="float: left;" width="45" src="./icons/w98_user_card.ico"> ### About me:
+<img style="float: left;" width="45" src="./icons/w98_user_card.ico"> **About me:**
 
 ### My name is not important. What is important is what I'm going to do... (programming)
 
-<img style="float: left;" width="46" src="./icons/w98_envelope_closed.ico"> <font size="5">Email:</font>
+<img style="float: left;" width="46" src="./icons/w98_envelope_closed.ico"> **Email:**
 
 ### nzvei75kw@mozmail.com
 
-<img style="float: left;" src="./icons/w98_internet_options.ico"> Work experience:
+<img style="float: left;" src="./icons/w98_internet_options.ico"> **Work experience:**
 
 ### 3+ years of development experience. System administration in college and the like
 ___
