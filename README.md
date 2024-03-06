@@ -19,7 +19,7 @@ ___
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/c%20language-blue?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/go%20lang-blue?style=for-the-badge&logo=go&logoColor=white)
 
-#### Frameworks
+#### Frameworks and libraries
 
 ![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=white) ![Static Badge](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js&logoColor=lime) ![Static Badge](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
