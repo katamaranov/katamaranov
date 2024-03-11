@@ -29,7 +29,9 @@ ___
 
 #### Containerization and clusters
 
-![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/k8s-white?style=for-the-badge&logo=kubernetes&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=blue)
+
+![Static Badge](https://img.shields.io/badge/%E2%AD%90%20%E2%AD%90%20%E2%AD%90-grey?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/k8s-white?style=for-the-badge&logo=kubernetes&logoColor=blue)
 
 #### Databases and queues
 
